@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1084
     wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15508#Stephen-A.-Douglas--A-Study-in-American-Politics
 gutenberg_issued: '2005-03-30'
 gutenberg_type: Text
 identifiers:
